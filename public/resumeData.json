@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Angga Arifandi",
+    "occupation":"Mobile Developer",
+    "description":"And here's a description about me",
+    "image":"Profile.png",
+    "bio":"Bio Paulin.",
+    "contactmessage":"If you have any inquiries or simply in for some discussion, don't hesitate to contact me",
+    "email": "anggadwiarifandi96@gmail.com",
+    "address":{
+      "city":"Jakarta",
+      "state":"Indonesia"
+    },
+    "website": "https://www.arifandi.tech",
+    "resumedownload":"https://www.arifandi.tech/resume-angga-arifandi-old.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/anggadwi.arifandi",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/anggadwia_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/angga-dwi-arifandi-6414b8b8/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/anggadwia",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/blackmenthor",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Indonesia",
+        "degree":"Bachelor of Computer Science",
+        "graduated":"February 2019",
+        "description":"Project officer at CompFest 8. A nationwide IT event held by students of faculty of Computer Science University of Indonesia, lead team consisting of 200++ people and arranging several events such as IT-Exhibition, IT Competition, Seminars, and Academies"
+      }
+    ],
+    "work":[
+      {
+        "company":"Mozio",
+        "title":"Mobile Developer",
+        "years":"May 2019 - Present",
+        "description":"Develop and maintain Mozio Android SDK, Mozio Driver App, and Mozio Android App"
+      },
+      {
+        "company":"OVAL Kompas Gramedia",
+        "title":"Mobile Developer",
+        "years":"August 2018 - April 2019",
+        "description":"Develop MyValue mobile apps with Flutter Framework."
+      },
+      {
+        "company":"Jojonomic",
+        "title":"Android Developer Intern",
+        "years":"March 2018 - June 2018",
+        "description":"Worked on face recognition module with Android NDK, Dlib c++, opencv, and google's OCR"
+      },
+      {
+        "company":"Stoqo",
+        "title":"Android Developer Intern",
+        "years":"January 2018 - February 2018",
+        "description":"Develop and maintain Stoqo Android app"
+      },
+      {
+        "company":"Investree",
+        "title":"Full Stack Developer Intern",
+        "years":"April 2017 - September 2017",
+        "description":"Using Laravel REST framework, developed some features with several team members."
+      }
+    ],
+    "certification": [
+      {
+        "title":"Associate Android Developer",
+        "publisher":"Google",
+        "validUntil":"January 2018 - January 2021",
+        "credentials":"https://www.credential.net/tiz5gqug?key=753c9477cee751cab584175498aaf26a9f0a72457879d3dc29e66b0efb1da507"
+      }
+    ],
+    "skillmessage":"Here are the skills that i've picked up during my journey as a software engineer",
+    "skills":[
+      {
+        "name":"Android Development",
+        "level":"85%"
+      },
+      {
+        "name":"Flutter Development",
+        "level":"75%"
+      },
+      {
+        "name":"Django",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript & JQuery",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mozio SDK",
+        "category":"Mozio's mobile SDK allows customers to drop a full booking & tracking solution into any airline, corporate or OTA app.",
+        "image":"mozio-sdk.png",
+        "url":"https://www.moziogroup.com/"
+      },
+      {
+        "title":"MyValue",
+        "category":"Used Flutter framework to build mobile apps called MyValue. MyValue is reward program from Kompas Gramedia Group in a form of mobile application.",
+        "image":"myvalue.png",
+        "url":"https://play.google.com/store/apps/details?id=com.kompasgramedia.myvalue"
+      },
+      {
+        "title":"Sahabat Bagus",
+        "category":"Android application to collect voters count for 2019 Legislative election in East Java Area.",
+        "image":"sahabatbagus.png",
+        "url":"https://play.google.com/store/apps/details?id=com.anggach.sahabatbagus"
+      },
+      {
+        "title":"Flutter branch.io Plugin",
+        "category":"Flutter plugin implemented Branch IO's SDK to Flutter. Supports both Android and iOS.",
+        "image":"branchio.png",
+        "url":"https://pub.dev/packages/flutter_branch_io_plugin"
+      },
+      {
+        "title":"Flutter Introduction Tooltip",
+        "category":"A Flutter plugin to show introduction tooltip for first timer use of the app.",
+        "image":"intro-tooltip.png",
+        "url":"https://pub.dev/packages/flutter_introduction_tooltip"
+      }
+    ]
+  }
+}
